@@ -15,3 +15,4 @@ The Penguins were canned in the "Qualifier Round" which was a 5 game series with
 
 Learning Python and open develpment in CI/CD ... and I will use it one day, I just understand this.
 
+And then I linked it in VS CODE and typed all of this. I intend to commit this and close the issue and merge with the master.
