@@ -1,4 +1,4 @@
-# hello-world
+# Hello-world learning CI/CD
 v1_firstrepo
 v2_update with learning and hockey updates
 
